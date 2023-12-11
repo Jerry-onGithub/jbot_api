@@ -9,52 +9,52 @@
                 {
                     "name": "Followers",
                     "quantity": "100",
-                    "price": "0.313"
+                    "price": "0.613"
                 },
                 {
                     "name": "Followers",
                     "quantity": "350",
-                    "price": "0.801"
+                    "price": "1.5"
                 },
                 {
                     "name": "Followers",
                     "quantity": "1000",
-                    "price": "2.999"
+                    "price": "3.699"
                 },
                 {
                     "name": "Followers",
                     "quantity": "1500",
-                    "price": "3.5"
+                    "price": "4.4"
                 },
                 {
                     "name": "Followers",
                     "quantity": "2000",
-                    "price": "4.9"
+                    "price": "5.9"
                 },
                 {
                     "name": "Followers",
                     "quantity": "5000",
-                    "price": "9.99"
+                    "price": "11.99"
                 },
                 {
                     "name": "Followers",
                     "quantity": "10000",
-                    "price": "17.99"
+                    "price": "20.99"
                 },
                 {
                     "name": "Followers",
                     "quantity": "20000",
-                    "price": "31.99"
+                    "price": "38.99"
                 },
                 {
                     "name": "Followers",
                     "quantity": "30000",
-                    "price": "45.99"
+                    "price": "52.99"
                 },
                 {
                     "name": "Followers",
                     "quantity": "50000",
-                    "price": "72.99"
+                    "price": "67.99"
                 }
             ]
         },
@@ -67,42 +67,42 @@
                 {
                     "name": "Views",
                     "quantity": "1000",
-                    "price": "0.0753"
+                    "price": "0.5"
                 },
                 {
                     "name": "Views",
                     "quantity": "3000",
-                    "price": "0.207"
+                    "price": "0.8"
                 },
                 {
                     "name": "Views",
                     "quantity": "5000",
-                    "price": "0.359"
+                    "price": "1.1"
                 },
                 {
                     "name": "Views",
                     "quantity": "10000",
-                    "price": "0.723"
+                    "price": "1.8"
                 },
                 {
                     "name": "Views",
                     "quantity": "20000",
-                    "price": "0.56"
+                    "price": "3.0"
                 },
                 {
                     "name": "Views",
                     "quantity": "30000",
-                    "price": "1.33"
+                    "price": "4.1"
                 },
                 {
                     "name": "Views",
                     "quantity": "50000",
-                    "price": "1.83"
+                    "price": "6.3"
                 },
                 {
                     "name": "Views",
                     "quantity": "100000",
-                    "price": "3.29"
+                    "price": "9.5"
                 }
                 
             ]
@@ -116,47 +116,47 @@
                 {
                     "name": "Likes",
                     "quantity": "1000",
-                    "price": "0.383"
+                    "price": "0.783"
                 },
                 {
                     "name": "Likes",
                     "quantity": "3000",
-                    "price": "0.997"
+                    "price": "1.997"
                 },
                 {
                     "name": "Likes",
                     "quantity": "5000",
-                    "price": "1.479"
+                    "price": "2.979"
                 },
                 {
                     "name": "Likes",
                     "quantity": "10000",
-                    "price": "2.3"
+                    "price": "4.83"
                 },
                 {
                     "name": "Likes",
                     "quantity": "20000",
-                    "price": "4.47"
+                    "price": "8.17"
                 },
                 {
                     "name": "Likes",
                     "quantity": "30000",
-                    "price": "5.8"
+                    "price": "10.3"
                 },
                 {
                     "name": "Likes",
                     "quantity": "50000",
-                    "price": "10.9"
+                    "price": "15.5"
                 },
                 {
                     "name": "Likes",
                     "quantity": "70000",
-                    "price": "14.99"
+                    "price": "21.19"
                 },
                 {
                     "name": "Likes",
                     "quantity": "100000",
-                    "price": "19.99"
+                    "price": "29.99"
                 }
             ]
         },
@@ -169,32 +169,32 @@
                 {
                     "name": "Shares",
                     "quantity": "1000",
-                    "price": "0.081"
+                    "price": "0.61"
                 },
                 {
                     "name": "Shares",
                     "quantity": "3000",
-                    "price": "0.247"
+                    "price": "1.547"
                 },
                 {
                     "name": "Shares",
                     "quantity": "5000",
-                    "price": "0.399"
+                    "price": "2.099"
                 },
                 {
                     "name": "Shares",
                     "quantity": "10000",
-                    "price": "0.69"
+                    "price": "3.59"
                 },
                 {
                     "name": "Shares",
                     "quantity": "20000",
-                    "price": "1.47"
+                    "price": "5.97"
                 },
                 {
                     "name": "Shares",
                     "quantity": "30000",
-                    "price": "2.08"
+                    "price": "8.58"
                 }
             ]
         },
@@ -207,27 +207,27 @@
                 {
                     "name": "Saves",
                     "quantity": "1000",
-                    "price": "0.25"
+                    "price": "0.6"
                 },
                 {
                     "name": "Saves",
                     "quantity": "3000",
-                    "price": "0.607"
+                    "price": "1.3"
                 },
                 {
                     "name": "Saves",
                     "quantity": "5000",
-                    "price": "1.099"
+                    "price": "2.099"
                 },
                 {
                     "name": "Saves",
                     "quantity": "10000",
-                    "price": "1.99"
+                    "price": "3.79"
                 },
                 {
                     "name": "Saves",
                     "quantity": "20000",
-                    "price": "3.57"
+                    "price": "6.17"
                 }
             ]
         },
@@ -449,47 +449,47 @@
                 {
                     "name": "Followers",
                     "quantity": "300",
-                    "price": "0.379"
+                    "price": "0.879"
                 },
                 {
                     "name": "Followers",
                     "quantity": "500",
-                    "price": "0.679"
+                    "price": "1.479"
                 },
                 {
                     "name": "Followers",
                     "quantity": "1000",
-                    "price": "1.29"
+                    "price": "2.49"
                 },
                 {
                     "name": "Followers",
                     "quantity": "3000",
-                    "price": "3.4"
+                    "price": "6.5"
                 },
                 {
                     "name": "Followers",
                     "quantity": "5000",
-                    "price": "5.8"
+                    "price": "9.5"
                 },
                 {
                     "name": "Followers",
                     "quantity": "10000",
-                    "price": "11.30"
+                    "price": "18.30"
                 },
                 {
                     "name": "Followers",
                     "quantity": "20000",
-                    "price": "19.99"
+                    "price": "42.99"
                 },
                 {
                     "name": "Followers",
                     "quantity": "30000",
-                    "price": "29.99"
+                    "price": "55.99"
                 },
                 {
                     "name": "Followers",
                     "quantity": "50000",
-                    "price": "45.99"
+                    "price": "85.99"
                 }
             ]
         },
@@ -502,37 +502,37 @@
                 {
                     "name": "Views",
                     "quantity": "1000",
-                    "price": "0.269"
+                    "price": "0.469"
                 },
                 {
                     "name": "Views",
                     "quantity": "5000",
-                    "price": "1.29"
+                    "price": "1.89"
                 },
                 {
                     "name": "Views",
                     "quantity": "10000",
-                    "price": "2.19"
+                    "price": "3.39"
                 },
                 {
                     "name": "Views",
                     "quantity": "15000",
-                    "price": "3.19"
+                    "price": "4.59"
                 },
                 {
                     "name": "Views",
                     "quantity": "20000",
-                    "price": "3.99"
-                },
-                {
-                    "name": "Views",
-                    "quantity": "30000",
                     "price": "5.99"
                 },
                 {
                     "name": "Views",
+                    "quantity": "30000",
+                    "price": "8.19"
+                },
+                {
+                    "name": "Views",
                     "quantity": "50000",
-                    "price": "9.99"
+                    "price": "12.99"
                 }
             ]
         },
@@ -545,42 +545,42 @@
                 {
                     "name": "Likes",
                     "quantity": "500",
-                    "price": "0.149"
+                    "price": "0.649"
                 },
                 {
                     "name": "Likes",
                     "quantity": "1000",
-                    "price": "0.249"
+                    "price": "0.949"
                 },
                 {
                     "name": "Likes",
                     "quantity": "3000",
-                    "price": "0.7"
+                    "price": "2.3"
                 },
                 {
                     "name": "Likes",
                     "quantity": "5000",
-                    "price": "1.29"
+                    "price": "3.29"
                 },
                 {
                     "name": "Likes",
                     "quantity": "10000",
-                    "price": "2.29"
-                },
-                {
-                    "name": "Likes",
-                    "quantity": "20000",
-                    "price": "3.99"
-                },
-                {
-                    "name": "Likes",
-                    "quantity": "30000",
                     "price": "5.99"
                 },
                 {
                     "name": "Likes",
+                    "quantity": "20000",
+                    "price": "9.99"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "30000",
+                    "price": "13.99"
+                },
+                {
+                    "name": "Likes",
                     "quantity": "50000",
-                    "price": "8.39"
+                    "price": "20.29"
                 }
             ]
         },
