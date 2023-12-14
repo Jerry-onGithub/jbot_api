@@ -45,16 +45,6 @@
                     "name": "Followers",
                     "quantity": "20000",
                     "price": "38.99"
-                },
-                {
-                    "name": "Followers",
-                    "quantity": "30000",
-                    "price": "52.99"
-                },
-                {
-                    "name": "Followers",
-                    "quantity": "50000",
-                    "price": "67.99"
                 }
             ]
         },
@@ -64,6 +54,11 @@
             "category": "TikTok",
             "type": "Worldwide Views",
             "subscriptions": [
+                {
+                    "name": "Views",
+                    "quantity": "500",
+                    "price": "0.33"
+                },
                 {
                     "name": "Views",
                     "quantity": "1000",
@@ -89,22 +84,12 @@
                     "quantity": "20000",
                     "price": "3.0"
                 },
-                {
-                    "name": "Views",
-                    "quantity": "30000",
-                    "price": "4.1"
-                },
+              
                 {
                     "name": "Views",
                     "quantity": "50000",
                     "price": "6.3"
-                },
-                {
-                    "name": "Views",
-                    "quantity": "100000",
-                    "price": "9.5"
                 }
-                
             ]
         },
         {
@@ -114,6 +99,11 @@
             "type": "WorldWide Likes",
             "subscriptions": [
                 {
+                    "name": "Likes",
+                    "quantity": "500",
+                    "price": "0.39"
+                },
+                 {
                     "name": "Likes",
                     "quantity": "1000",
                     "price": "0.783"
@@ -138,25 +128,11 @@
                     "quantity": "20000",
                     "price": "8.17"
                 },
-                {
-                    "name": "Likes",
-                    "quantity": "30000",
-                    "price": "10.3"
-                },
+              
                 {
                     "name": "Likes",
                     "quantity": "50000",
                     "price": "15.5"
-                },
-                {
-                    "name": "Likes",
-                    "quantity": "70000",
-                    "price": "21.19"
-                },
-                {
-                    "name": "Likes",
-                    "quantity": "100000",
-                    "price": "29.99"
                 }
             ]
         },
@@ -166,6 +142,11 @@
             "category": "TikTok",
             "type": "Worldwide Shares",
             "subscriptions": [
+                {
+                    "name": "Shares",
+                    "quantity": "500",
+                    "price": "0.35"
+                },
                 {
                     "name": "Shares",
                     "quantity": "1000",
@@ -205,6 +186,11 @@
             "type": "Worldwide Saves",
             "subscriptions": [
                 {
+                    "name": "Saves",
+                    "quantity": "500",
+                    "price": "0.34"
+                },
+{
                     "name": "Saves",
                     "quantity": "1000",
                     "price": "0.6"
@@ -408,7 +394,7 @@
             ]
         },
         {
-            "id": "4029",
+            "id": "131",
             "name": "Facebook Video Views",
             "category": "Facebook",
             "type": "Worldwide Video Views",
@@ -449,43 +435,35 @@
                 {
                     "name": "Followers",
                     "quantity": "300",
-                    "price": "0.879"
+                    "price": "1.279"
                 },
                 {
                     "name": "Followers",
                     "quantity": "500",
-                    "price": "1.479"
+                    "price": "1.9"
                 },
                 {
                     "name": "Followers",
                     "quantity": "1000",
-                    "price": "2.49"
+                    "price": "3.49"
                 },
                 {
                     "name": "Followers",
                     "quantity": "3000",
-                    "price": "6.5"
+                    "price": "8.5"
                 },
-                {
-                    "name": "Followers",
-                    "quantity": "5000",
-                    "price": "9.5"
-                },
+               
                 {
                     "name": "Followers",
                     "quantity": "10000",
-                    "price": "18.30"
+                    "price": "22.30"
                 },
                 {
                     "name": "Followers",
                     "quantity": "20000",
-                    "price": "42.99"
+                    "price": "39.99"
                 },
-                {
-                    "name": "Followers",
-                    "quantity": "30000",
-                    "price": "55.99"
-                },
+                
                 {
                     "name": "Followers",
                     "quantity": "50000",
@@ -544,6 +522,11 @@
             "subscriptions": [
                 {
                     "name": "Likes",
+                    "quantity": "300",
+                    "price": "0.349"
+                },
+                {
+                    "name": "Likes",
                     "quantity": "500",
                     "price": "0.649"
                 },
@@ -576,12 +559,8 @@
                     "name": "Likes",
                     "quantity": "30000",
                     "price": "13.99"
-                },
-                {
-                    "name": "Likes",
-                    "quantity": "50000",
-                    "price": "20.29"
                 }
+                
             ]
         },
         {
@@ -620,7 +599,6 @@
                     "quantity": "20000",
                     "price": "120.20"
                 }
-                
             ]
         },
         {
@@ -690,7 +668,7 @@
             ]
         },
         {
-            "id": "131",
+            "id": "37",
             "name": "Instagram Reels Video Views",
             "category": "Instagram",
             "type": "Worldwide Reels Video Views",
@@ -755,10 +733,6 @@
                 }
             ]
         },
-     
-       
-       
-        
         {
             "id": "1690",
             "name": "TikTok Livestream Views(60Minutes)",
@@ -793,5 +767,4 @@
             ]
         }
     ]
-	
 }
