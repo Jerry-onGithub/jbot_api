@@ -1,7 +1,7 @@
 {
     "services": [
         {
-            "id": "6581",
+            "id": "711",
             "name": "TikTok Followers",
             "category": "TikTok",
             "type": "Worldwide Promotion",
@@ -14,44 +14,44 @@
                 {
                     "name": "Followers",
                     "quantity": "350",
-                    "price": "1.7"
+                    "price": "1.5"
                 },
                 {
                     "name": "Followers",
                     "quantity": "1000",
-                    "price": "4.699"
+                    "price": "3.699"
                 },
                 {
                     "name": "Followers",
                     "quantity": "1500",
-                    "price": "5.9"
+                    "price": "4.4"
                 },
                 {
                     "name": "Followers",
                     "quantity": "2000",
-                    "price": "7.9"
+                    "price": "5.9"
                 },
                 {
                     "name": "Followers",
                     "quantity": "5000",
-                    "price": "16.99"
+                    "price": "11.99"
                 },
                 {
                     "name": "Followers",
                     "quantity": "10000",
-                    "price": "34.99"
+                    "price": "20.99"
                 },
                 {
                     "name": "Followers",
                     "quantity": "20000",
-                    "price": "61.99"
+                    "price": "38.99"
                 }
                
                 
             ]
         },
         {
-            "id": "6557",
+            "id": "3849",
             "name": "TikTok Views",
             "category": "TikTok",
             "type": "Worldwide Views",
@@ -97,7 +97,7 @@
             ]
         },
         {
-            "id": "6558",
+            "id": "3633",
             "name": "TikTok Likes",
             "category": "TikTok",
             "type": "WorldWide Likes",
@@ -143,7 +143,7 @@
             ]
         },
         {
-            "id": "6559",
+            "id": "4859",
             "name": "TikTok Shares",
             "category": "TikTok",
             "type": "Worldwide Shares",
@@ -186,7 +186,7 @@
             ]
         },
         {
-            "id": "6560",
+            "id": "5810",
             "name": "TikTok Saves",
             "category": "TikTok",
             "type": "Worldwide Saves",
@@ -225,7 +225,7 @@
         },
 
         {
-            "id": "6561",
+            "id": "1025",
             "name": "Facebook Followers",
             "category": "Facebook",
             "type": "Worldwide Followers",
@@ -263,7 +263,7 @@
             ]
         },
         {
-            "id": "6562",
+            "id": "3593",
             "name": "Facebook Post Likes",
             "category": "Facebook",
             "type": "Worldwide Post Likes",
@@ -296,7 +296,7 @@
             ]
         },
         {
-            "id": "6554",
+            "id": "3489",
             "name": "Facebook Post Shares",
             "category": "Facebook",
             "type": "Worldwide Post Shares",
@@ -329,7 +329,7 @@
             ]
         },
         {
-            "id": "6565",
+            "id": "405",
             "name": "Facebook Page Likes + Followers",
             "category": "Facebook",
             "type": "Worldwide Page Likes + Followers",
@@ -362,7 +362,7 @@
             ]
         },
         {
-            "id": "6566",
+            "id": "4029",
             "name": "Facebook Group Members",
             "category": "Facebook",
             "type": "Worldwide Group Members",
@@ -400,7 +400,7 @@
             ]
         },
         {
-            "id": "6567",
+            "id": "131",
             "name": "Facebook Video Views",
             "category": "Facebook",
             "type": "Worldwide Video Views",
@@ -433,7 +433,7 @@
             ]
         },
         {
-            "id": "6568",
+            "id": "885",
             "name": "Instagram Followers",
             "category": "Instagram",
             "type": "Worldwide Promotion",
@@ -478,7 +478,7 @@
             ]
         },
         {
-            "id": "6583",
+            "id": "37",
             "name": "Instagram Views",
             "category": "Instagram",
             "type": "Worldwide Views",
@@ -521,7 +521,7 @@
             ]
         },
         {
-            "id": "6572",
+            "id": "36",
             "name": "Instagram Likes",
             "category": "Instagram",
             "type": "Worldwide Likes",
@@ -566,10 +566,11 @@
                     "quantity": "30000",
                     "price": "13.99"
                 }
+                
             ]
         },
         {
-            "id": "6573",
+            "id": "1697",
             "name": "Instagram Live Views(60 Minutes)",
             "category": "Instagram",
             "type": "Worldwide Live Views",
@@ -608,7 +609,7 @@
             ]
         },
         {
-            "id": "6574",
+            "id": "3341",
             "name": "Instagram Live Likes",
             "category": "Instagram",
             "type": "Worldwide Live Likes",
@@ -641,7 +642,7 @@
             ]
         },
         {
-            "id": "6575",
+            "id": "736",
             "name": "Instagram Impressions + Reach",
             "category": "Instagram",
             "type": "Worldwide Impressions + Reach",
@@ -674,7 +675,7 @@
             ]
         },
         {
-            "id": "6582",
+            "id": "37",
             "name": "Instagram Reels Video Views",
             "category": "Instagram",
             "type": "Worldwide Reels Video Views",
@@ -707,7 +708,7 @@
             ]
         },
         {
-            "id": "6579",
+            "id": "1688",
             "name": "TikTok Livestream Views(15Minutes)",
             "category": "TikTok",
             "type": "Worldwide Livestream Views",
@@ -739,8 +740,12 @@
                 }
             ]
         },
+     
+       
+       
+        
         {
-            "id": "6580",
+            "id": "1690",
             "name": "TikTok Livestream Views(60Minutes)",
             "category": "Instagram",
             "type": "Worldwide Livestream Views",
@@ -772,5 +777,6 @@
                 }
             ]
         }
-    ]	
+    ]
+	
 }
