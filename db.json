@@ -302,27 +302,27 @@
             "type": "Worldwide Post Shares",
             "subscriptions": [
                 {
-                    "name": "Likes",
+                    "name": "Shares",
                     "quantity": "500",
                     "price": "6.19"
                 },
                 {
-                    "name": "Likes",
+                    "name": "Shares",
                     "quantity": "1000",
                     "price": "9.9"
                 },
                 {
-                    "name": "Likes",
+                    "name": "Shares",
                     "quantity": "5000",
                     "price": "43.79"
                 },
                 {
-                    "name": "Likes",
+                    "name": "Shares",
                     "quantity": "10000",
                     "price": "79.93"
                 },
                 {
-                    "name": "Likes",
+                    "name": "Shares",
                     "quantity": "15000",
                     "price": "115.99"
                 }
