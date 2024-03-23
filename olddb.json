@@ -1,240 +1,779 @@
 {
     "services": [
         {
-            "id": "4692",
-            "name": "TikTok Followers High Quality",
+            "id": "6581",
+            "name": "TikTok Followers",
             "category": "TikTok",
-            "type": "High Quality",
+            "type": "Worldwide Promotion",
             "subscriptions": [
                 {
                     "name": "Followers",
                     "quantity": "100",
-                    "price": "3.99"
+                    "price": "0.613"
                 },
                 {
                     "name": "Followers",
                     "quantity": "350",
-                    "price": "6.99"
+                    "price": "1.7"
                 },
                 {
                     "name": "Followers",
                     "quantity": "1000",
-                    "price": "8.99"
+                    "price": "4.699"
                 },
                 {
                     "name": "Followers",
                     "quantity": "1500",
-                    "price": "15.99"
+                    "price": "5.9"
                 },
                 {
                     "name": "Followers",
                     "quantity": "2000",
-                    "price": "19.99"
+                    "price": "7.9"
                 },
                 {
                     "name": "Followers",
                     "quantity": "5000",
-                    "price": "29.99"
-                },
-                {
-                    "name": "Followers",
-                    "quantity": "10000",
-                    "price": "49.99"
-                }
-            ]
-        },
-        {
-            "id": "3796",
-            "name": "TikTok Followers Super Quality",
-            "category": "TikTok",
-            "type": "Super Quality",
-            "subscriptions": [
-                {
-                    "name": "Followers",
-                    "quantity": "150",
-                    "price": "5.99"
-                },
-                {
-                    "name": "Followers",
-                    "quantity": "300",
-                    "price": "7.99"
-                },
-                {
-                    "name": "Followers",
-                    "quantity": "400",
-                    "price": "9.99"
-                },
-                {
-                    "name": "Followers",
-                    "quantity": "1000",
-                    "price": "15.99"
-                },
-                {
-                    "name": "Followers",
-                    "quantity": "1500",
-                    "price": "25.99"
-                },
-                {
-                    "name": "Followers",
-                    "quantity": "3000",
-                    "price": "35.99"
-                }
-            ]
-        },
-        {
-            "id": "3690",
-            "name": "Instagram Followers Super Quality",
-            "category": "Instagram",
-            "type": "Super Quality",
-            "subscriptions": [
-                {
-                    "name": "Followers",
-                    "quantity": "140",
-                    "price": "8.99"
-                },
-                {
-                    "name": "Followers",
-                    "quantity": "290",
-                    "price": "12.99"
-                },
-                {
-                    "name": "Followers",
-                    "quantity": "500",
                     "price": "16.99"
                 },
                 {
                     "name": "Followers",
-                    "quantity": "700",
-                    "price": "19.99"
+                    "quantity": "10000",
+                    "price": "34.99"
+                },
+                {
+                    "name": "Followers",
+                    "quantity": "20000",
+                    "price": "61.99"
+                }
+               
+                
+            ]
+        },
+        {
+            "id": "6557",
+            "name": "TikTok Views",
+            "category": "TikTok",
+            "type": "Worldwide Views",
+            "subscriptions": [
+                {
+                    "name": "Views",
+                    "quantity": "500",
+                    "price": "0.33"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "1000",
+                    "price": "0.5"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "3000",
+                    "price": "0.8"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "5000",
+                    "price": "1.1"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "10000",
+                    "price": "1.8"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "20000",
+                    "price": "3.0"
+                },
+              
+                {
+                    "name": "Views",
+                    "quantity": "50000",
+                    "price": "6.3"
+                }
+               
+                
+            ]
+        },
+        {
+            "id": "6558",
+            "name": "TikTok Likes",
+            "category": "TikTok",
+            "type": "WorldWide Likes",
+            "subscriptions": [
+                {
+                    "name": "Likes",
+                    "quantity": "500",
+                    "price": "0.39"
+                },
+                 {
+                    "name": "Likes",
+                    "quantity": "1000",
+                    "price": "0.783"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "3000",
+                    "price": "1.997"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "5000",
+                    "price": "2.979"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "10000",
+                    "price": "4.83"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "20000",
+                    "price": "8.17"
+                },
+              
+                {
+                    "name": "Likes",
+                    "quantity": "50000",
+                    "price": "15.5"
+                }
+               
+               
+            ]
+        },
+        {
+            "id": "6559",
+            "name": "TikTok Shares",
+            "category": "TikTok",
+            "type": "Worldwide Shares",
+            "subscriptions": [
+                {
+                    "name": "Shares",
+                    "quantity": "500",
+                    "price": "0.35"
+                },
+                {
+                    "name": "Shares",
+                    "quantity": "1000",
+                    "price": "0.61"
+                },
+                {
+                    "name": "Shares",
+                    "quantity": "3000",
+                    "price": "1.547"
+                },
+                {
+                    "name": "Shares",
+                    "quantity": "5000",
+                    "price": "2.099"
+                },
+                {
+                    "name": "Shares",
+                    "quantity": "10000",
+                    "price": "3.59"
+                },
+                {
+                    "name": "Shares",
+                    "quantity": "20000",
+                    "price": "5.97"
+                },
+                {
+                    "name": "Shares",
+                    "quantity": "30000",
+                    "price": "8.58"
+                }
+            ]
+        },
+        {
+            "id": "6560",
+            "name": "TikTok Saves",
+            "category": "TikTok",
+            "type": "Worldwide Saves",
+            "subscriptions": [
+                {
+                    "name": "Saves",
+                    "quantity": "500",
+                    "price": "0.34"
+                },
+{
+                    "name": "Saves",
+                    "quantity": "1000",
+                    "price": "0.6"
+                },
+                {
+                    "name": "Saves",
+                    "quantity": "3000",
+                    "price": "1.3"
+                },
+                {
+                    "name": "Saves",
+                    "quantity": "5000",
+                    "price": "2.099"
+                },
+                {
+                    "name": "Saves",
+                    "quantity": "10000",
+                    "price": "3.79"
+                },
+                {
+                    "name": "Saves",
+                    "quantity": "20000",
+                    "price": "6.17"
+                }
+            ]
+        },
+
+        {
+            "id": "6561",
+            "name": "Facebook Followers",
+            "category": "Facebook",
+            "type": "Worldwide Followers",
+            "subscriptions": [
+                {
+                    "name": "Followers",
+                    "quantity": "400",
+                    "price": "2.19"
                 },
                 {
                     "name": "Followers",
                     "quantity": "1000",
-                    "price": "23.99"
+                    "price": "4.99"
                 },
                 {
                     "name": "Followers",
-                    "quantity": "1400",
+                    "quantity": "3000",
+                    "price": "12.99"
+                },
+                {
+                    "name": "Followers",
+                    "quantity": "6000",
+                    "price": "22.99"
+                },
+                {
+                    "name": "Followers",
+                    "quantity": "10000",
                     "price": "29.99"
                 },
                 {
                     "name": "Followers",
-                    "quantity": "2900",
-                    "price": "39.99"
-                },
-                {
-                    "name": "Followers",
-                    "quantity": "4400",
-                    "price": "49.99"
-                },
-                {
-                    "name": "Followers",
-                    "quantity": "5900",
+                    "quantity": "20000",
                     "price": "59.99"
                 }
             ]
         },
         {
-            "id": "4246",
-            "name": "Instagram Comments",
-            "category": "Instagram",
-            "type": "",
-            "subscriptions": [
-                {
-                    "name": "Comments",
-                    "quantity": "50",
-                    "price": "3.99"
-                },
-                {
-                    "name": "Comments",
-                    "quantity": "100",
-                    "price": "6.99"
-                },
-                {
-                    "name": "Comments",
-                    "quantity": "300",
-                    "price": "15.99"
-                },
-                {
-                    "name": "Comments",
-                    "quantity": "500",
-                    "price": "17.99"
-                },
-                {
-                    "name": "Comments",
-                    "quantity": "800",
-                    "price": "19.99"
-                },
-                {
-                    "name": "Comments",
-                    "quantity": "1000",
-                    "price": "23.99"
-                }
-            ]
-        },
-        {
-            "id": "4405",
-            "name": "YouTube Likes",
-            "category": "YouTube",
-            "type": "",
+            "id": "6562",
+            "name": "Facebook Post Likes",
+            "category": "Facebook",
+            "type": "Worldwide Post Likes",
             "subscriptions": [
                 {
                     "name": "Likes",
-                    "quantity": "300",
-                    "price": "6.99"
-                },
-                {
-                    "name": "Likes",
-                    "quantity": "500",
-                    "price": "9.99"
-                },
-                {
-                    "name": "Likes",
-                    "quantity": "800",
-                    "price": "11.99"
-                },
-                {
-                    "name": "Likes",
                     "quantity": "1000",
-                    "price": "14.99"
+                    "price": "1.19"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "3000",
+                    "price": "2.9"
                 },
                 {
                     "name": "Likes",
                     "quantity": "5000",
+                    "price": "4.79"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "10000",
+                    "price": "8.93"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "20000",
+                    "price": "16.12"
+                }
+            ]
+        },
+        {
+            "id": "6554",
+            "name": "Facebook Post Shares",
+            "category": "Facebook",
+            "type": "Worldwide Post Shares",
+            "subscriptions": [
+                {
+                    "name": "Shares",
+                    "quantity": "500",
+                    "price": "6.19"
+                },
+                {
+                    "name": "Shares",
+                    "quantity": "1000",
+                    "price": "9.9"
+                },
+                {
+                    "name": "Shares",
+                    "quantity": "5000",
+                    "price": "43.79"
+                },
+                {
+                    "name": "Shares",
+                    "quantity": "10000",
+                    "price": "79.93"
+                },
+                {
+                    "name": "Shares",
+                    "quantity": "15000",
+                    "price": "115.99"
+                }
+            ]
+        },
+        {
+            "id": "6565",
+            "name": "Facebook Page Likes + Followers",
+            "category": "Facebook",
+            "type": "Worldwide Page Likes + Followers",
+            "subscriptions": [
+                {
+                    "name": "Page Likes + Followers",
+                    "quantity": "500",
+                    "price": "3.39"
+                },
+                {
+                    "name": "Page Likes + Followers",
+                    "quantity": "1000",
+                    "price": "4.9"
+                },
+                {
+                    "name": "Page Likes + Followers",
+                    "quantity": "5000",
+                    "price": "15.79"
+                },
+                {
+                    "name": "Page Likes + Followers",
+                    "quantity": "10000",
+                    "price": "28.93"
+                },
+                {
+                    "name": "Page Likes + Followers",
+                    "quantity": "15000",
                     "price": "39.99"
                 }
             ]
         },
         {
-            "id": "5151",
-            "name": "YouTube Subscribers",
-            "category": "YouTube",
-            "type": "",
+            "id": "6566",
+            "name": "Facebook Group Members",
+            "category": "Facebook",
+            "type": "Worldwide Group Members",
             "subscriptions": [
                 {
-                    "name": "Subscribers",
-                    "quantity": "150",
+                    "name": "Group Members",
+                    "quantity": "300",
+                    "price": "1.69"
+                },
+                {
+                    "name": "Group Members",
+                    "quantity": "500",
+                    "price": "2"
+                },
+                {
+                    "name": "Group Members",
+                    "quantity": "1000",
+                    "price": "3.99"
+                },
+                {
+                    "name": "Group Members",
+                    "quantity": "3000",
                     "price": "9.99"
                 },
                 {
-                    "name": "Subscribers",
-                    "quantity": "200",
-                    "price": "11.99"
+                    "name": "Group Members",
+                    "quantity": "6000",
+                    "price": "17.99"
                 },
                 {
-                    "name": "Subscribers",
+                    "name": "Group Members",
+                    "quantity": "10000",
+                    "price": "31.99"
+                }
+            ]
+        },
+        {
+            "id": "6567",
+            "name": "Facebook Video Views",
+            "category": "Facebook",
+            "type": "Worldwide Video Views",
+            "subscriptions": [
+                {
+                    "name": "Video Views",
+                    "quantity": "1000",
+                    "price": "1.73"
+                },
+                {
+                    "name": "Video Views",
+                    "quantity": "2000",
+                    "price": "3.19"
+                },
+                {
+                    "name": "Video Views",
+                    "quantity": "3000",
+                    "price": "4.49"
+                },
+                {
+                    "name": "Video Views",
+                    "quantity": "6000",
+                    "price": "8.19"
+                },
+                {
+                    "name": "Video Views",
+                    "quantity": "10000",
+                    "price": "11.99"
+                }
+            ]
+        },
+        {
+            "id": "6568",
+            "name": "Instagram Followers",
+            "category": "Instagram",
+            "type": "Worldwide Promotion",
+            "subscriptions": [
+                {
+                    "name": "Followers",
                     "quantity": "300",
+                    "price": "1.279"
+                },
+                {
+                    "name": "Followers",
+                    "quantity": "500",
+                    "price": "1.9"
+                },
+                {
+                    "name": "Followers",
+                    "quantity": "1000",
+                    "price": "3.49"
+                },
+                {
+                    "name": "Followers",
+                    "quantity": "3000",
+                    "price": "8.5"
+                },
+               
+                {
+                    "name": "Followers",
+                    "quantity": "10000",
+                    "price": "22.30"
+                },
+                {
+                    "name": "Followers",
+                    "quantity": "20000",
+                    "price": "39.99"
+                },
+                
+                {
+                    "name": "Followers",
+                    "quantity": "50000",
+                    "price": "85.99"
+                }
+            ]
+        },
+        {
+            "id": "6583",
+            "name": "Instagram Views",
+            "category": "Instagram",
+            "type": "Worldwide Views",
+            "subscriptions": [
+                {
+                    "name": "Views",
+                    "quantity": "1000",
+                    "price": "0.469"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "5000",
+                    "price": "1.89"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "10000",
+                    "price": "3.39"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "15000",
+                    "price": "4.59"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "20000",
+                    "price": "5.99"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "30000",
+                    "price": "8.19"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "50000",
+                    "price": "12.99"
+                }
+            ]
+        },
+        {
+            "id": "6572",
+            "name": "Instagram Likes",
+            "category": "Instagram",
+            "type": "Worldwide Likes",
+            "subscriptions": [
+                {
+                    "name": "Likes",
+                    "quantity": "300",
+                    "price": "0.349"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "500",
+                    "price": "0.649"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "1000",
+                    "price": "0.949"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "3000",
+                    "price": "2.3"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "5000",
+                    "price": "3.29"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "10000",
+                    "price": "5.99"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "20000",
+                    "price": "9.99"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "30000",
+                    "price": "13.99"
+                }
+                
+            ]
+        },
+        {
+            "id": "6573",
+            "name": "Instagram Live Views(60 Minutes)",
+            "category": "Instagram",
+            "type": "Worldwide Live Views",
+            "subscriptions": [
+                {
+                    "name": "Live Views",
+                    "quantity": "500",
+                    "price": "3.349"
+                },
+                {
+                    "name": "Live Views",
+                    "quantity": "1000",
+                    "price": "6.649"
+                },
+                {
+                    "name": "Live Views",
+                    "quantity": "4000",
+                    "price": "25.99"
+                },
+                {
+                    "name": "Live Views",
+                    "quantity": "5000",
+                    "price": "31.29"
+                },
+                {
+                    "name": "Live Views",
+                    "quantity": "10000",
+                    "price": "62.9"
+                },
+                {
+                    "name": "Live Views",
+                    "quantity": "20000",
+                    "price": "120.20"
+                }
+                
+            ]
+        },
+        {
+            "id": "6574",
+            "name": "Instagram Live Likes",
+            "category": "Instagram",
+            "type": "Worldwide Live Likes",
+            "subscriptions": [
+                {
+                    "name": "Live Likes",
+                    "quantity": "500",
+                    "price": "0.49"
+                },
+                {
+                    "name": "Live Likes",
+                    "quantity": "1000",
+                    "price": "0.89"
+                },
+                {
+                    "name": "Live Likes",
+                    "quantity": "4000",
+                    "price": "2.99"
+                },
+                {
+                    "name": "Live Likes",
+                    "quantity": "5000",
+                    "price": "3.89"
+                },
+                {
+                    "name": "Live Likes",
+                    "quantity": "10000",
+                    "price": "7.12"
+                }
+            ]
+        },
+        {
+            "id": "6575",
+            "name": "Instagram Impressions + Reach",
+            "category": "Instagram",
+            "type": "Worldwide Impressions + Reach",
+            "subscriptions": [
+                {
+                    "name": "Impressions + Reach",
+                    "quantity": "1000",
+                    "price": "0.179"
+                },
+                {
+                    "name": "Impressions + Reach",
+                    "quantity": "3000",
+                    "price": "0.49"
+                },
+                {
+                    "name": "Impressions + Reach",
+                    "quantity": "5000",
+                    "price": "0.83"
+                },
+                {
+                    "name": "Impressions + Reach",
+                    "quantity": "10000",
+                    "price": "1.59"
+                },
+                {
+                    "name": "Impressions + Reach",
+                    "quantity": "20000",
+                    "price": "3.1"
+                }
+            ]
+        },
+        {
+            "id": "6582",
+            "name": "Instagram Reels Video Views",
+            "category": "Instagram",
+            "type": "Worldwide Reels Video Views",
+            "subscriptions": [
+                {
+                    "name": "Reels Video Views",
+                    "quantity": "1000",
+                    "price": "1.49"
+                },
+                {
+                    "name": "Reels Video Views",
+                    "quantity": "2000",
+                    "price": "2.69"
+                },
+                {
+                    "name": "Reels Video Views",
+                    "quantity": "3000",
+                    "price": "3.99"
+                },
+                {
+                    "name": "Reels Video Views",
+                    "quantity": "5000",
+                    "price": "5.99"
+                },
+                {
+                    "name": "Reels Video Views",
+                    "quantity": "10000",
+                    "price": "9.99"
+                }
+            ]
+        },
+        {
+            "id": "6579",
+            "name": "TikTok Livestream Views(15Minutes)",
+            "category": "TikTok",
+            "type": "Worldwide Livestream Views",
+            "subscriptions": [
+                {
+                    "name": "Livestream Views(15Minutes)",
+                    "quantity": "300",
+                    "price": "4.6"
+                },
+                {
+                    "name": "Livestream Views(15Minutes)",
+                    "quantity": "500",
+                    "price": "5.99"
+                },
+                {
+                    "name": "Livestream Views(15Minutes)",
+                    "quantity": "1000",
+                    "price": "7.20"
+                },
+                {
+                    "name": "Livestream Views(15Minutes)",
+                    "quantity": "3000",
                     "price": "16.99"
                 },
                 {
-                    "name": "Subscribers",
-                    "quantity": "600",
-                    "price": "29.99"
+                    "name": "Livestream Views(15Minutes)",
+                    "quantity": "5000",
+                    "price": "24.99"
+                }
+            ]
+        },
+     
+       
+       
+        
+        {
+            "id": "6580",
+            "name": "TikTok Livestream Views(60Minutes)",
+            "category": "Instagram",
+            "type": "Worldwide Livestream Views",
+            "subscriptions": [
+                {
+                    "name": "Livestream Views(60Minutes)",
+                    "quantity": "300",
+                    "price": "9.99"
                 },
                 {
-                    "name": "Subscribers",
+                    "name": "Livestream Views(60Minutes)",
+                    "quantity": "500",
+                    "price": "13.99"
+                },
+                {
+                    "name": "Livestream Views(60Minutes)",
                     "quantity": "1000",
-                    "price": "39.99"
+                    "price": "22.99"
+                },
+                {
+                    "name": "Livestream Views(60Minutes)",
+                    "quantity": "2000",
+                    "price": "41.99"
+                },
+                {
+                    "name": "Livestream Views(60Minutes)",
+                    "quantity": "5000",
+                    "price": "99.99"
                 }
             ]
         }
