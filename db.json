@@ -17,9 +17,9 @@
                     "price": "1.7"
                 },
                 {
-                    "name": "Followers",
+                    "name": "Followers 30% OFF",
                     "quantity": "1000",
-                    "price": "4.699"
+                    "price": "3.192"
                 },
                 {
                     "name": "Followers",
@@ -302,27 +302,27 @@
             "type": "Worldwide Post Shares",
             "subscriptions": [
                 {
-                    "name": "Shares",
+                    "name": "Likes",
                     "quantity": "500",
                     "price": "6.19"
                 },
                 {
-                    "name": "Shares",
+                    "name": "Likes",
                     "quantity": "1000",
                     "price": "9.9"
                 },
                 {
-                    "name": "Shares",
+                    "name": "Likes",
                     "quantity": "5000",
                     "price": "43.79"
                 },
                 {
-                    "name": "Shares",
+                    "name": "Likes",
                     "quantity": "10000",
                     "price": "79.93"
                 },
                 {
-                    "name": "Shares",
+                    "name": "Likes",
                     "quantity": "15000",
                     "price": "115.99"
                 }
@@ -740,10 +740,6 @@
                 }
             ]
         },
-     
-       
-       
-        
         {
             "id": "6580",
             "name": "TikTok Livestream Views(60Minutes)",
@@ -777,6 +773,5 @@
                 }
             ]
         }
-    ]
-	
+    ]	
 }
