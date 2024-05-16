@@ -17,9 +17,9 @@
                     "price": "1.7"
                 },
                 {
-                    "name": "Followers 30% OFF",
+                    "name": "Followers",
                     "quantity": "1000",
-                    "price": "3.192"
+                    "price": "4.793"
                 },
                 {
                     "name": "Followers",
@@ -46,8 +46,6 @@
                     "quantity": "20000",
                     "price": "61.99"
                 }
-               
-                
             ]
         },
         {
@@ -132,14 +130,11 @@
                     "quantity": "20000",
                     "price": "8.17"
                 },
-              
                 {
                     "name": "Likes",
                     "quantity": "50000",
                     "price": "15.5"
                 }
-               
-               
             ]
         },
         {
@@ -196,7 +191,7 @@
                     "quantity": "500",
                     "price": "0.34"
                 },
-{
+                {
                     "name": "Saves",
                     "quantity": "1000",
                     "price": "0.6"
@@ -223,7 +218,6 @@
                 }
             ]
         },
-
         {
             "id": "6561",
             "name": "Facebook Followers",
