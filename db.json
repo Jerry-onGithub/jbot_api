@@ -46,6 +46,8 @@
                     "quantity": "20000",
                     "price": "61.99"
                 }
+               
+                
             ]
         },
         {
@@ -130,11 +132,14 @@
                     "quantity": "20000",
                     "price": "8.17"
                 },
+              
                 {
                     "name": "Likes",
                     "quantity": "50000",
                     "price": "15.5"
                 }
+               
+               
             ]
         },
         {
@@ -191,7 +196,7 @@
                     "quantity": "500",
                     "price": "0.34"
                 },
-                {
+{
                     "name": "Saves",
                     "quantity": "1000",
                     "price": "0.6"
@@ -218,41 +223,42 @@
                 }
             ]
         },
+
         {
-            "id": "6561",
-            "name": "Facebook Followers",
+            "id": "6565",
+            "name": "Facebook Followers + Likes(Only Page)",
             "category": "Facebook",
-            "type": "Worldwide Followers",
+            "type": "Worldwide Page Likes + Followers",
             "subscriptions": [
                 {
-                    "name": "Followers",
-                    "quantity": "400",
-                    "price": "2.19"
+                    "name": "Page Likes + Followers",
+                    "quantity": "500",
+                    "price": "3.9"
                 },
                 {
-                    "name": "Followers",
+                    "name": "Page Likes + Followers",
                     "quantity": "1000",
                     "price": "4.99"
                 },
                 {
-                    "name": "Followers",
+                    "name": "Page Likes + Followers",
                     "quantity": "3000",
                     "price": "12.99"
                 },
                 {
-                    "name": "Followers",
-                    "quantity": "6000",
-                    "price": "22.99"
+                    "name": "Page Likes + Followers",
+                    "quantity": "5000",
+                    "price": "15.79"
                 },
                 {
-                    "name": "Followers",
+                    "name": "Page Likes + Followers",
                     "quantity": "10000",
-                    "price": "29.99"
+                    "price": "28.99"
                 },
                 {
-                    "name": "Followers",
+                    "name": "Page Likes + Followers",
                     "quantity": "20000",
-                    "price": "59.99"
+                    "price": "57.99"
                 }
             ]
         },
@@ -323,33 +329,38 @@
             ]
         },
         {
-            "id": "6565",
-            "name": "Facebook Page Likes + Followers",
+            "id": "6561",
+            "name": "Facebook Followers( Profile )",
             "category": "Facebook",
-            "type": "Worldwide Page Likes + Followers",
+            "type": "Worldwide Followers",
             "subscriptions": [
                 {
-                    "name": "Page Likes + Followers",
+                    "name": "Followers",
                     "quantity": "500",
                     "price": "3.39"
                 },
                 {
-                    "name": "Page Likes + Followers",
+                    "name": "Followers",
                     "quantity": "1000",
                     "price": "4.9"
                 },
                 {
-                    "name": "Page Likes + Followers",
+                    "name": "Followers",
+                    "quantity": "3000",
+                    "price": "12.79"
+                },
+                {
+                    "name": "Followers",
                     "quantity": "5000",
                     "price": "15.79"
                 },
                 {
-                    "name": "Page Likes + Followers",
+                    "name": "Followers",
                     "quantity": "10000",
                     "price": "28.93"
                 },
                 {
-                    "name": "Page Likes + Followers",
+                    "name": "Followers",
                     "quantity": "15000",
                     "price": "39.99"
                 }
@@ -734,6 +745,241 @@
                 }
             ]
         },
+   
+     {
+            "id": "6592",
+            "name": "YouTube Subscribers",
+            "category": "YouTube",
+            "type": "Worldwide Subscribers",
+            "subscriptions": [
+                {
+                    "name": "Subscribers",
+                    "quantity": "500",
+                    "price": "3.75"
+                },
+                {
+                    "name": "Subscribers",
+                    "quantity": "1000",
+                    "price": "6.32"
+                },
+                {
+                    "name": "Subscribers",
+                    "quantity": "3000",
+                    "price": "17.40"
+                },
+                {
+                    "name": "Subscribers",
+                    "quantity": "5000",
+                    "price": "29.69"
+                },
+                {
+                    "name": "Subscribers",
+                    "quantity": "10000",
+                    "price": "49.69"
+                },
+                {
+                    "name": "Subscribers",
+                    "quantity": "20000",
+                    "price": "97.59"
+                }
+            ]
+        },
+       
+ {
+            "id": "6595",
+            "name": "YouTube Likes",
+            "category": "YouTube",
+            "type": "Worldwide Likes",
+            "subscriptions": [
+                {
+                    "name": "Likes",
+                    "quantity": "500",
+                    "price": "1.6"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "1000",
+                    "price": "2.6"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "3000",
+                    "price": "7.20"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "5000",
+                    "price": "12.99"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "10000",
+                    "price": "23.99"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "20000",
+                    "price": "46.49"
+                }
+            ]
+        },
+        {
+            "id": "6593",
+            "name": "YouTube Views",
+            "category": "YouTube",
+            "type": "Worldwide Views",
+            "subscriptions": [
+                {
+                    "name": "Views",
+                    "quantity": "500",
+                    "price": "1.5"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "1000",
+                    "price": "2.3"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "3000",
+                    "price": "6.50"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "5000",
+                    "price": "11.49"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "10000",
+                    "price": "20.12"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "20000",
+                    "price": "39.80"
+                }
+            ]
+        },
+        {
+            "id": "6589",
+            "name": "Telegram Members",
+            "category": "Telegram",
+            "type": "Worldwide Members",
+            "subscriptions": [
+                {
+                    "name": "Members",
+                    "quantity": "500",
+                    "price": "2.7"
+                },
+                {
+                    "name": "Members",
+                    "quantity": "1000",
+                    "price": "4.64"
+                },
+                {
+                    "name": "Members",
+                    "quantity": "3000",
+                    "price": "11.90"
+                },
+                {
+                    "name": "Members",
+                    "quantity": "5000",
+                    "price": "20.19"
+                },
+                {
+                    "name": "Members",
+                    "quantity": "10000",
+                    "price": "35.99"
+                },
+                {
+                    "name": "Members",
+                    "quantity": "20000",
+                    "price": "63.99"
+                }
+                
+            ]
+        },
+
+         {
+            "id": "6591",
+            "name": "Telegram Views",
+            "category": "Telegram",
+            "type": "Views",
+            "subscriptions": [
+                {
+                    "name": "Views",
+                    "quantity": "1000",
+                    "price": "0.712"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "5000",
+                    "price": "2.99"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "10000",
+                    "price": "5.10"
+                },
+                {
+                    "name": "Views",
+                    "quantity": "20000",
+                    "price": "9.99"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "30000",
+                    "price": "13.99"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "50000",
+                    "price": "19.99"
+                },
+                {
+                    "name": "Likes",
+                    "quantity": "100000",
+                    "price": "26.99"
+                }
+                
+            ]
+        },
+     
+      {
+            "id": "6590",
+            "name": "Telegram Reaction + Views",
+            "category": "Telegram",
+            "type": "Worldwide Reaction + Views",
+            "subscriptions": [
+                {
+                    "name": "Reaction + Views(👍❤️🔥🎉😁)",
+                    "quantity": "500",
+                    "price": "0.68"
+                },
+                {
+                    "name": "Reaction + Views(👍❤️🔥🎉😁)",
+                    "quantity": "1000",
+                    "price": "1.08"
+                },
+                {
+                    "name": "Reaction + Views(👍❤️🔥🎉😁)",
+                    "quantity": "3000",
+                    "price": "2.80"
+                },
+                {
+                    "name": "Reaction + Views(👍❤️🔥🎉😁)",
+                    "quantity": "5000",
+                    "price": "4.29"
+                },
+                {
+                    "name": "Reaction + Views(👍❤️🔥🎉😁)",
+                    "quantity": "10000",
+                    "price": "7.19"
+                }
+              
+            ]
+        },
         {
             "id": "6580",
             "name": "TikTok Livestream Views(60Minutes)",
@@ -767,5 +1013,6 @@
                 }
             ]
         }
-    ]	
+    ]
+	
 }
