@@ -948,32 +948,32 @@
      
       {
             "id": "6590",
-            "name": "Telegram Reaction and Views",
+            "name": "Telegram Reaction + Views",
             "category": "Telegram",
             "type": "Worldwide Reaction + Views",
             "subscriptions": [
                 {
-                    "name": "Reaction + Views(👍❤️🔥🎉😁)",
+                    "name": "Reaction + Views",
                     "quantity": "500",
                     "price": "0.68"
                 },
                 {
-                    "name": "Reaction + Views(👍❤️🔥🎉😁)",
+                    "name": "Reaction + Views",
                     "quantity": "1000",
                     "price": "1.08"
                 },
                 {
-                    "name": "Reaction + Views(👍❤️🔥🎉😁)",
+                    "name": "Reaction + Views",
                     "quantity": "3000",
                     "price": "2.80"
                 },
                 {
-                    "name": "Reaction + Views(👍❤️🔥🎉😁)",
+                    "name": "Reaction + Views",
                     "quantity": "5000",
                     "price": "4.29"
                 },
                 {
-                    "name": "Reaction + Views(👍❤️🔥🎉😁)",
+                    "name": "Reaction + Views",
                     "quantity": "10000",
                     "price": "7.19"
                 }
